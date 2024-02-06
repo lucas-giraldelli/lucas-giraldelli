@@ -19,7 +19,7 @@ Continuously striving for improvement, driven by a passion for growth, I am acti
 🛠 Developing expertise in DevOps practices to optimize the software development life cycle.<br/>
 Feel free to reach out for collaboration or inquiries! Let's build something awesome together! 💬
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-giraldelli)](https://github.com/lucas-giraldelli/github-readme-stats)
+[![Languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-giraldelli&layout=donut-vertical)](https://github.com/lucas-giraldelli/github-readme-stats)
 
 <!--
 **lucas-giraldelli/lucas-giraldelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
