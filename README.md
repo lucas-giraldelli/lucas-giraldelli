@@ -12,7 +12,7 @@ Key Expertise:<br/>
 🔍 Proven ability to troubleshoot and solve complex technical challenges efficiently.<br/>
 📊 Extensive familiarity with databases, including SQL (PostgreSQL, MySQL) and NoSQL (MongoDB).<br/>
 
-Continuous Learning:
+Continuous Learning:<br/>
 Continuously striving for improvement, driven by a passion for growth, I am actively pursuing the following areas:
 
 🌱 Expanding proficiency in Spring 3/Java/Go to enhance back-end capabilities.<br/>
