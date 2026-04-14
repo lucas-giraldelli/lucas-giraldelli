@@ -14,5 +14,3 @@ Core Competencies:
 Currently, I am also expanding my skills in game development (Godot/3D Modelling/Voxel art), which keeps my problem-solving skills sharp and creative.
 
 ** My focus is on engineering fundamentals—DSA and problem-solving. Syntax is secondary; I learn whatever tool is needed to get the job done.
-
-[![Languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-giraldelli&layout=donut-vertical)](https://github.com/lucas-giraldelli/github-readme-stats)
