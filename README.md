@@ -1,37 +1,18 @@
-🚀 Full Stack Developer | JavaScript/TypeScript | React | Node.js | AWS 🚀
+Senior Software Engineer | Fullstack JS/TS Specialist (React/Node) | Clean Code & Scalable Solutions 
 
-Experienced in designing and developing dynamic websites and web applications, I specialize in JavaScript/TypeScript and React. With a strong foundation in both front-end and back-end technologies, I've successfully delivered projects that prioritize clean code and seamless user experiences.
+Experienced Senior Software Engineer specializing in the JavaScript ecosystem. I build scalable, high-performance web and mobile applications using React, Node.js, and TypeScript.
 
-Key Expertise:<br/>
-💻 Proficient in full stack development using JavaScript/TypeScript and React, along with React Native for versatile mobile applications. <br/>
-🛠 Experienced in building robust back-end solutions with Node.js, utilizing frameworks such as Express, Nest and KoaJS.<br/>
-🎨 Skilled in designing responsive user interfaces and ensuring top-notch user experiences.<br/>
-✨ Strong focus on code quality and maintainability, with a commitment to producing clean and efficient code.<br/>
-📝 Adept at creating comprehensive project documentation using tools like JSDoc and Storybook.<br/>
-🧪 Well-versed in unit, integration, and end-to-end testing to ensure reliable and bug-free applications.<br/>
-🔍 Proven ability to troubleshoot and solve complex technical challenges efficiently.<br/>
-📊 Extensive familiarity with databases, including SQL (PostgreSQL, MySQL) and NoSQL (MongoDB).<br/>
+My focus goes beyond just writing code; I am passionate about software architecture, clean code principles, and delivering solutions that drive real business value. I thrive in collaborative environments where I can tackle complex technical challenges and optimize system performance.
 
-Continuous Learning:<br/>
-Continuously striving for improvement, driven by a passion for growth, I am actively pursuing the following areas:
+Core Competencies:
+• Frontend: React.js, React Native, Next.js, Redux, Tailwind CSS.
+• Backend: Node.js, NestJS, Express, RESTful APIs, GraphQL.
+• Main Languages: JavaScript (ES6+), TypeScript. 
+• Other Languages: Java, Golang, Python, PHP, C#, Bash **
+• Tools & DevOps: Git, Docker, AWS, CI/CD pipelines.
 
-🌱 Expanding proficiency in Spring 3/Java/Go to enhance back-end capabilities.<br/>
-🛠 Developing expertise in DevOps practices to optimize the software development life cycle.<br/>
-Feel free to reach out for collaboration or inquiries! Let's build something awesome together! 💬
+Currently, I am also expanding my skills in game development (Godot/3D Modelling/Voxel art), which keeps my problem-solving skills sharp and creative.
+
+** My focus is on engineering fundamentals—DSA and problem-solving. Syntax is secondary; I learn whatever tool is needed to get the job done.
 
 [![Languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-giraldelli&layout=donut-vertical)](https://github.com/lucas-giraldelli/github-readme-stats)
-
-<!--
-**lucas-giraldelli/lucas-giraldelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
