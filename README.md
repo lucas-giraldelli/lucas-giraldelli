@@ -6,10 +6,15 @@ My focus goes beyond just writing code; I am passionate about software architect
 
 Core Competencies:
 • Frontend: React.js, React Native, Next.js, Redux, Tailwind CSS.
+
 • Backend: Node.js, NestJS, Express, RESTful APIs, GraphQL.
+
 • Main Languages: JavaScript (ES6+), TypeScript. 
+
 • Other Languages: Java, Golang, Python, PHP, C#, Bash **
+
 • Tools & DevOps: Git, Docker, AWS, CI/CD pipelines.
+
 
 Currently, I am also expanding my skills in game development (Godot/3D Modelling/Voxel art), which keeps my problem-solving skills sharp and creative.
 
